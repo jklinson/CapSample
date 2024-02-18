@@ -74,7 +74,7 @@ window.customElements.define(
           on using native features, building plugins, and more.
         </p>
         <a href="https://capacitorjs.com" target="_blank" class="button">Read more</a>
-        <h2>Tiny Demo</h2>
+        <h2>Tiny Demo with app flow</h2>
         <p>
           This demo shows how to call Capacitor plugins. Say cheese!
         </p>

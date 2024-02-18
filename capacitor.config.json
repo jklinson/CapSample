@@ -6,6 +6,12 @@
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 0
+    },
+    "LiveUpdates": {
+      "appId": "a18595ba",
+      "channel": "Production",
+      "autoUpdateMethod": "background",
+      "maxVersions": 2
     }
   },
   "server": {
