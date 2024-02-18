@@ -1,0 +1,14 @@
+{
+  "appId": "com.cap.sammple",
+  "appName": "CapSample",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
